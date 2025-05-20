@@ -9,8 +9,8 @@ For feedback and suggestions contact Becky on X-Gov slack or email
 
 # How to use
 
-Make a copy of the template board into your own Lucid space
-Use "command + f" to search for components and patterns, or use the contents list
+Make a copy of the template board into your own Lucid space<br>
+Use "command + f" to search for components and patterns, or use the contents list<br>
 Copy and paste components and patterns
 
 
